@@ -9,8 +9,8 @@ A local PDF chatbot that lets you upload a PDF file and ask questions about it u
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/pdf-rag-chatbot.git
-cd pdf-rag-chatbot
+git clone https://github.com/DilshanParis/pdf-rag-chatbot.git
+cd streamlit
 ```
 
 ### 2. Set up a virtual environment (optional but recommended)
@@ -126,7 +126,7 @@ pdf-rag-chatbot/
 
 ## 📃 License
 
-MIT License © 2025 Your Name
+MIT License © 2025 Dilshan Paris
 
 ---
 
